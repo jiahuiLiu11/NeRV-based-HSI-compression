@@ -7,3 +7,5 @@ Testing data can be downloeaded at
 URL: https://pan.baidu.com/s/1uAqOrTJiSRV33mgmojCHgQ 
 AcessCode: aszs 
 ```
+
+We release the basic model to make it easier for understanding the NeRV-based HSI compression.
